@@ -30,7 +30,8 @@ Tech's i know and i can help you with:</br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 </br>
-
+</br>
+</br>
 
 🔭 I’m currently working on
 ------------------------------------------------------------------------------
@@ -39,7 +40,8 @@ Tech's i know and i can help you with:</br>
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 </br>
-
+</br>
+</br>
 
 🌱 I’m currently learning 
 ------------------------------------------------------------------------------
@@ -48,6 +50,9 @@ Tech's i know and i can help you with:</br>
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 </br>
+</br>
+</br>
+
 📫 How to reach me
 ------------------------------------------------------------------------------
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/harsh.buddhdev.39)](https://www.facebook.com/harsh.buddhdev.39)
@@ -56,13 +61,15 @@ Tech's i know and i can help you with:</br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.reddit.com/user/Born_Feb)](https://www.reddit.com/user/Born_Feb)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/user/Born_Feb)](https://www.reddit.com/user/Born_Feb)
 </br>
-
+</br>
+</br>
 
 <a href="https://github.com/harshdevl/harshdevl">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshdevl" />
 </a>
 </br>
-------------------------------------------------------------------------------
+</br>
+</br>
 </br>
 <a href="https://github.com/harshdevl/harshdevl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdevl" />
