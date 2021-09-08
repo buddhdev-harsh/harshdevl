@@ -32,7 +32,7 @@ Tech's i know and i can help you with:</br>
 </br>
 
 
-🔭 I’m currently working on:</br>
+🔭 I’m currently working on
 ------------------------------------------------------------------------------
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -41,14 +41,14 @@ Tech's i know and i can help you with:</br>
 </br>
 
 
-🌱 I’m currently learning </br>
+🌱 I’m currently learning 
 ------------------------------------------------------------------------------
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 </br>
-📫 How to reach me:</br>
+📫 How to reach me
 ------------------------------------------------------------------------------
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/harsh.buddhdev.39)](https://www.facebook.com/harsh.buddhdev.39)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/HarshB1920)](https://twitter.com/HarshB1920)
