@@ -2,11 +2,7 @@
 
 Hi there 👋 
 
-
-Here's My skills:
-------------------------------------------------------------------------------
-
-Tech's I Know:</br>
+Tech's i know and i can hel you with:</br>
 ------------------------------------------------------------------------------
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
