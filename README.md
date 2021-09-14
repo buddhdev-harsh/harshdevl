@@ -1,7 +1,17 @@
 # harshdevl
 
-Hi there 👋 
+Hey there ,Harsh Here👋 
 
+📫 How to reach me
+------------------------------------------------------------------------------
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/harsh.buddhdev.39)](https://www.facebook.com/harsh.buddhdev.39)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/HarshB1920)](https://twitter.com/HarshB1920)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/hrsh_thakkar_/?hl=en)](https://www.instagram.com/hrsh_thakkar_/?hl=en)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-buddhdev-9080aa16a)](https://www.linkedin.com/in/harsh-buddhdev-9080aa16a)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/user/Born_Feb)](https://www.reddit.com/user/Born_Feb)
+</br>
+</br>
+</br>
 Tech's i know and i can help you with:</br>
 ------------------------------------------------------------------------------
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -49,17 +59,6 @@ Tech's i know and i can help you with:</br>
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-</br>
-</br>
-</br>
-
-📫 How to reach me
-------------------------------------------------------------------------------
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/harsh.buddhdev.39)](https://www.facebook.com/harsh.buddhdev.39)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/HarshB1920)](https://twitter.com/HarshB1920)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/hrsh_thakkar_/?hl=en)](https://www.instagram.com/hrsh_thakkar_/?hl=en)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-buddhdev-9080aa16a)](https://www.linkedin.com/in/harsh-buddhdev-9080aa16a)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/user/Born_Feb)](https://www.reddit.com/user/Born_Feb)
 </br>
 </br>
 </br>
