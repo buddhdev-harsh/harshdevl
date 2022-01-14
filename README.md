@@ -1,4 +1,4 @@
-# harshdevl
+# <a href="https://harsh-buddhdev.netlify.app/"> harshdevl </a> 
 
 Hey there ,Harsh Here👋 
 
@@ -13,7 +13,7 @@ Hey there ,Harsh Here👋
 </br>
 </br>
 
-:dizzy:<a href="https://harsh-buddhdev.netlify.app/">My portfolio</a> 
+
 
 Tech's i know and i can help you with:</br>
 ------------------------------------------------------------------------------
