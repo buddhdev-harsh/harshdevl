@@ -9,8 +9,8 @@ Hey there ,Harsh Here👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/hrsh_thakkar_/?hl=en)](https://www.instagram.com/hrsh_thakkar_/?hl=en)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-buddhdev-9080aa16a)](https://www.linkedin.com/in/harsh-buddhdev-9080aa16a)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/user/Born_Feb)](https://www.reddit.com/user/Born_Feb)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]
-(https://leetcode.com/AchB/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/AchB/)
+
 </br>
 </br>
 </br>
