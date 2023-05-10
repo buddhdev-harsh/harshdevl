@@ -56,14 +56,4 @@ Tech's i know and worked in </br>
 </br>
 </br>
 
-<a href="https://github.com/harshdevl/harshdevl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshdevl" />
-</a>
-</br>
-</br>
-</br>
-</br>
-<a href="https://github.com/harshdevl/harshdevl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdevl" />
-</a>
-</br>
+
