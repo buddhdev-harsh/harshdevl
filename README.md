@@ -1,11 +1,9 @@
-# <a href="https://harsh-buddhdev.netlify.app/"> harshdevl </a>   
-<div id="header" align="center">
-<img sec="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBtemN4ejIzeHQ1aTZ1anJ3dnlja2ZndXZ0YnZseHE2N2hoYWkwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" width="50"/>
-</div>
 
-Hey there,Harsh Here👋 
-📫 How to reach me
-------------------------------------------------------------------------------
+<div id="header" align="center">
+<h3><a href="https://harsh-buddhdev.netlify.app/"> Harsh Buddhdev </a> </h3>
+<img src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" widht="100"/>
+
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/harsh.buddhdev.39)](https://www.facebook.com/harsh.buddhdev.39)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/HarshB1920)](https://twitter.com/HarshB1920)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/hrsh_thakkar_/?hl=en)](https://www.instagram.com/hrsh_thakkar_/?hl=en)
@@ -14,9 +12,8 @@ Hey there,Harsh Here👋
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/AchB/)
 
 </br>
-</br>
 
-Tech's i know and worked in </br>
+Tech's i know and worked in 
 ------------------------------------------------------------------------------
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -31,8 +28,6 @@ Tech's i know and worked in </br>
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Shellscript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-</br>
-</br>
 </br>
 
 🔭 I’m currently working on
@@ -52,7 +47,11 @@ Tech's i know and worked in </br>
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 </br>
-</br>
-</br>
 
+📏 Github Stats
+------------------------------------------------------------------------------
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshdevl&theme=iceberg&hide_border=true)](https://git.io/streak-stats) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdevl&hide_progress=false)
+</div>
 
