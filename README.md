@@ -1,5 +1,8 @@
-# <a href="https://harsh-buddhdev.netlify.app/"> harshdevl </a> 
+# <a href="https://harsh-buddhdev.netlify.app/"> harshdevl </a>   
 
+<div id="header" align="center">
+  <img src="[https://giphy.com/embed/g4N6wTrf1v6yQ](https://giphy.com/gifs/g4N6wTrf1v6yQ)" width="100"/>
+</div>
 Hey there ,Harsh Here👋 
 
 📫 How to reach me
