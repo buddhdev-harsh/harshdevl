@@ -1,10 +1,9 @@
 # <a href="https://harsh-buddhdev.netlify.app/"> harshdevl </a>   
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img sec="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBtemN4ejIzeHQ1aTZ1anJ3dnlja2ZndXZ0YnZseHE2N2hoYWkwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" width="50"/>
 </div>
-Hey there ,Harsh Here👋 
 
+Hey there,Harsh Here👋 
 📫 How to reach me
 ------------------------------------------------------------------------------
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/harsh.buddhdev.39)](https://www.facebook.com/harsh.buddhdev.39)
@@ -16,9 +15,6 @@ Hey there ,Harsh Here👋
 
 </br>
 </br>
-</br>
-
-
 
 Tech's i know and worked in </br>
 ------------------------------------------------------------------------------
