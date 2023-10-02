@@ -1,8 +1,7 @@
 
 <div id="header" align="center">
 <h3><a href="https://harsh-buddhdev.netlify.app/"> Harsh Buddhdev </a> </h3>
-<img src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" widht="100"/>
-
+<img src="https://media.giphy.com/media/eemPC4yhITcTm/giphy.gif" widht="100"/>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/harsh.buddhdev.39)](https://www.facebook.com/harsh.buddhdev.39)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/HarshB1920)](https://twitter.com/HarshB1920)
